@@ -1,0 +1,105 @@
+[2025-05-17T14:49:10.238714200]
+Moeda: USD
+Moeda Convertida: BRL
+Valor converção: 5.684
+
+[2025-05-17T14:49:11.441057500]
+Moeda: BRL
+Moeda Convertida: USD
+Valor converção: 0.1759
+
+[2025-05-17T14:49:12.518840900]
+Moeda: USD
+Moeda Convertida: EUR
+Valor converção: 0.8954
+
+[2025-05-17T14:49:13.465060500]
+Moeda: EUR
+Moeda Convertida: USD
+Valor converção: 1.1169
+
+[2025-05-17T14:49:14.456320300]
+Moeda: USD
+Moeda Convertida: JPY
+Valor converção: 145.7481
+
+[2025-05-17T14:49:15.735624900]
+Moeda: JPY
+Moeda Convertida: USD
+Valor converção: 0.006861
+
+[2025-05-17T14:51:01.014401100]
+Moeda: USD
+Moeda Convertida: BRL
+Valor converção: 5.684
+
+[2025-05-17T14:51:02.133301300]
+Moeda: BRL
+Moeda Convertida: USD
+Valor converção: 0.1759
+
+[2025-05-17T14:52:04.459138500]
+Moeda: USD
+Moeda Convertida: BRL
+Valor converção: 5.684
+
+[2025-05-17T14:52:06.926675500]
+Moeda: BRL
+Moeda Convertida: USD
+Valor converção: 0.1759
+
+[2025-05-17T14:52:13.435449300]
+Moeda: USD
+Moeda Convertida: BRL
+Valor converção: 5.684
+
+[2025-05-17T14:52:14.542211800]
+Moeda: BRL
+Moeda Convertida: USD
+Valor converção: 0.1759
+
+[2025-05-17T14:52:15.441987100]
+Moeda: USD
+Moeda Convertida: EUR
+Valor converção: 0.8954
+
+[2025-05-17T14:53:26.716325800]
+Moeda: USD
+Moeda Convertida: BRL
+Valor converção: 5.684
+
+[2025-05-17T14:53:27.787181300]
+Moeda: BRL
+Moeda Convertida: USD
+Valor converção: 0.1759
+
+[2025-05-17T14:53:28.851838400]
+Moeda: USD
+Moeda Convertida: EUR
+Valor converção: 0.8954
+
+[2025-05-17T14:55:56.222385100]
+Moeda: USD
+Moeda Convertida: BRL
+Valor converção: 5.684
+
+[2025-05-17T14:56:00.791097900]
+Moeda: BRL
+Moeda Convertida: USD
+Valor converção: 0.1759
+
+[2025-05-17T14:56:01.846386300]
+Moeda: USD
+Moeda Convertida: EUR
+Valor converção: 0.8954
+
+[2025-05-17T14:56:03.472339800]
+Moeda: EUR
+Moeda Convertida: USD
+Valor converção: 1.1169
+
+[2025-05-17T15:24:00.695896700]
+Moeda: USD
+Moeda Convertida: CNY
+Valor converção: 7.2103
+
